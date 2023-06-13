@@ -1,0 +1,10 @@
+* parameterized-function
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/stylewarning/parameterized-function.git   |
+| commit  | 3569388  |
+| systems | parameterized-function |
+|---------+-------------------------------------------|
+
